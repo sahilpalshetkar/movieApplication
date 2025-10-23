@@ -1,5 +1,4 @@
 import "./css/App.css"
-import MovieCard from "./components/movieCard";
 import Favorite from "./pages/Favorite";
 import Home from "./pages/Home";
 import { Routes, Route } from "react-router-dom";
